@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+heygen/
+venv/
+.vscode/
+.idea/
+
+# 
+*.log
+
+# Environment variables
+.env
+
