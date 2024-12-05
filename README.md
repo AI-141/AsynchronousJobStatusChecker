@@ -1,4 +1,4 @@
-# Heygen - Video Translation
+# Video Translation Process Example
 
 ## Setup and Installation
 
